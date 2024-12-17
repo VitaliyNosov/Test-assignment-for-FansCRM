@@ -24,7 +24,7 @@ This repository contains solutions for the WordPress Developer test task. The co
 
 ---
 
-## **Screenshot**
+## **Company**
 ![Project Preview](assets/screenshot.png)  
 *Example of project functionality or optimization results.*
 
